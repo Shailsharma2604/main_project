@@ -1,0 +1,6 @@
+# Asset Allocation Planner - Required Packages
+
+# Core Framework
+streamlit>=1.28.0
+plotly>=5.17.0
+pandas>=2.0.0
