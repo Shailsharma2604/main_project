@@ -104,7 +104,7 @@ st.markdown("# 💰 Finance Analytics Hub")
 st.markdown("<p class='subtitle'>Choose your financial analysis tool</p>", unsafe_allow_html=True)
 
 # Project paths
-MUTUAL_FUND_APP_PATH = r"https://proejct-7-1.streamlit.app/"
+MUTUAL_FUND_APP_PATH = https://proejct-7-1.streamlit.app/
 CRYPTO_ANALYSIS_APP_PATH = r"example-app-crypto-dashboard-main/app.py"
 
 # Create two columns for the project cards
